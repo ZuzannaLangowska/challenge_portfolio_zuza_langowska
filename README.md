@@ -9,3 +9,6 @@ posty, czytać mailingi itp., chciałabym dalej rozwijać się z Wami.
 
 ###### _Z góry dzięki za przeczytanie i sprawdzenie zadania :D_
 ###### _Zuza_
+
+# Podzadanie 2: Test GET ISTQB
+wynik: 7/14
